@@ -1,0 +1,163 @@
+.panel {
+    display: block;
+    position: relative;
+    background-color: #ffffff;
+}
+metro.css:116
+* {
+    border-collapse: collapse;
+}
+metro.css:9
+html, body, * {
+    box-sizing: border-box;
+}
+
+.panel > .heading {
+    padding: .625rem 0;
+    color: #ffffff;
+    background-color: #1ba1e2;
+    cursor: default;
+    vertical-align: middle;
+    z-index: 2;
+    height: 2.625rem;
+    box-shadow: -1px 6px 6px -6px rgba(0, 0, 0, 0.35);
+    font: 500 1.125rem/1.1 "Segoe UI", "Open Sans", sans-serif, serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+metro.css:13109
+.panel > .heading, .panel > .content {
+    display: block;
+    position: relative;
+    }
+
+
+    .panel > .heading > .icon + .title {
+    margin-left: 3.625rem;
+}
+
+
+metro.css:9
+html, body, * {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}.panel > .content {
+    padding: .625rem;
+    background-color: #e8f1f4;
+    z-index: 1;
+    font-size: 0.875rem;
+}
+
+metro.css:13110
+.panel > .heading, .panel > .content {
+    display: block;
+    position: relative;
+    color: #1d1d1d;
+}
+metro.css:116
+* {
+    border-collapse: collapse;
+}
+metro.css:9
+html, body, * {
+    box-sizing: border-box;
+}
+
+* {
+    border-collapse: collapse;
+}
+metro.css:9
+html, body, * {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from div.content
+metro.css:13148
+.panel > .content {
+    padding: .625rem;
+    background-color: #e8f1f4;
+    z-index: 1;
+    font-size: 0.875rem;
+}
+metro.css:13110
+.panel > .heading, .panel > .content {
+    display: block;
+    position: relative;
+    color: #1d1d1d;
+}
+
+
+.input-control.textarea {
+    height: auto;
+}
+metro-icons.css:2703
+.full-size {
+    width: 100% !important;
+}
+metro.css:8680
+.input-control {
+    display: inline-block;
+    min-height: 2.125rem;
+    height: 2.125rem;
+    position: relative;
+    vertical-align: middle;
+    margin: .325rem 0;
+    line-height: 1;
+}
+metro.css:2848
+.full-size {
+    width: 100% !important;
+}
+metro.css:116
+* {
+    border-collapse: collapse;
+}
+metro.css:9
+html, body, * {
+    box-sizing: border-box;
+}
+
+textarea {
+    margin: 0;
+    font-size: 100%;
+    margin: 0px;
+    width: 1183px;
+    height: 233px;
+}
+
+artikelreadmore.css:129
+
+}
+
+.button.primary {
+    background: #f2f2f2;
+    color: #f1f1f1;
+    border-color: #2086bf;
+}
+.button {
+    padding: 0 1rem;
+    height: 2.125rem;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #ffffff;
+    border: 1px #d9d9d9 solid;
+    color: #262626;
+    cursor: pointer;
+    display: inline-block;
+    outline: none;
+    font-size: .875rem;
+    line-height: 1;
+    margin: .15625rem 0;
+    position: relative;
+}
+
+

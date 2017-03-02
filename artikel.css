@@ -1,0 +1,122 @@
+body{
+    margin-right:0px;
+}
+          
+.heading {
+    padding: .625rem 0;
+    width: 100%;
+    color: #ffffff;
+    background-color: #8DC26F;
+    cursor: default;
+    vertical-align: middle;
+    z-index: 2;
+    height: 2.625rem;
+    box-shadow: -1px 6px 6px -6px rgba(0, 0, 0, 0.35);
+    font: 500 1.125rem/1.1 "Segoe UI", "Open Sans", sans-serif, serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+metro.css:13109
+.heading,  .content {
+    display: block;
+    position: relative;
+    color: ss
+
+
+
+}
+
+body{
+    font-family: "Segoe UI", "Open Sans", sans-serif, serif;
+    font-size: 0.875rem;
+    line-height: 1.1;
+    font-weight: 400;
+    font-style: normal;
+}
+metro.css:116
+* {
+    border-collapse: collapse;
+}
+Inherited from html
+@media screen and (max-width: 1400px)
+metro-responsive.css:267
+html {
+    font-size: 110%;
+}
+metro.css:3299
+html {
+    font-size: 100%;
+}
+metro.css:116
+* {
+    border-collapse: collapse;
+}
+
+
+
+
+.content {
+    padding: .625rem;
+    background-color: #f1f1f1;
+    z-index: 1;
+    font-size: 0.875rem;
+}
+
+metro.css:13110
+.heading, .content {
+    display: block;
+    position: relative;
+    color: #1d1d1d;
+}
+metro.css:116
+* {
+    border-collapse: collapse;
+}
+metro.css:9
+html, body, * {
+    box-sizing: border-box;
+}
+
+
+
+      
+
+.place-right {
+    float: right !important;
+}
+metro.css:2929
+.place-right {
+    float: right !important;
+}
+metro.css:116
+* {
+    border-collapse: collapse;
+}
+metro.css:9
+html, body, * {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+
+
+[class^="mif-"], [class*=" mif-"] {
+    display: inline-block;
+    font: normal normal normal 1.5em/1;
+    font-family: metro, "Segoe UI", "Open Sans", serif;
+    line-height: 1;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+    vertical-align: middle;
+    position: static;
+}
+
